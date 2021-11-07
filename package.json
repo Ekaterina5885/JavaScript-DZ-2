@@ -1,0 +1,31 @@
+{
+  "name": "dz-2",
+  "version": "1.0.0",
+  "description": "home work",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekaterina5885/JavaScript-DZ-2.git"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "author": "Ekaterina Kolesnikova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekaterina5885/JavaScript-DZ-2/issues"
+  },
+  "homepage": "https://github.com/Ekaterina5885/JavaScript-DZ-2#readme",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.4.1"
+  }
+}
